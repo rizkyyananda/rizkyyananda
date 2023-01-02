@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyyananda&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
-**rizkyyananda/rizkyyananda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rizkyyananda/rizkyyananda** is a ✨ _special_ ✨
 
 Here are some ideas to get you started:
 
