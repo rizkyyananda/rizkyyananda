@@ -1,10 +1,39 @@
-### Hi there, I'm Rizky Yananda 👋
-<p align="center"><img src="https://www.codewars.com/users/rizkyyananda/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkyyananda&show_icons=true&include_all_commits=true&theme=monokai" alt=" rizky yananda GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyyananda&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyyananda&layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
+# 👋 Hello there! I'm Rizky Yananda
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PT. Deltadata Mandiri
+I'm a passionate [Your Role] from [Your Location]. Welcome to my GitHub profile, where I love to bring ideas to life through code and creativity.
+
+## 🚀 What I Do
+
+- 💻 Full-stack Developer
+- 🎨 UI/UX Enthusiast
+- 🚀 Open Source Contributor
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** [List of programming languages you use]
+- **Frameworks:** [List of frameworks you're familiar with]
+- **Database:** [List of databases you work with]
+- **Tools:** [Any specific tools or software you regularly use]
+
+## 🌱 I'm Currently Learning
+
+- [Current learning focus or project]
+
+## 🔭 Projects
+
+
+## 💬 Ask Me About
+
+- Anything related to [Your expertise]
+
+## 🤔 Looking for Help With
+
+- I'm currently working on [Project/Challenge], and I'd love some help with [Specific Task].
+
+## 😄 Fun Facts
+
+- I love [Hobbies/Interests]
+- I'm a fan of [Favorite TV Shows/Movies/Games]
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to chat. Happy coding! 👩‍💻🚀
